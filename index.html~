@@ -1,141 +1,455 @@
 <!DOCTYPE html>
 <html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8">
-<title></title></title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrameAs":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2ae640d2-a0da-4b4e-ae2d-6d647061b276","wgCSPNonce":false,"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"User:Vitemelange/sandbox ","wgTitle":"Vitemelange/sandbox ","wgCurRevisionId":1156830977,"wgRevisionId":1156830977,"wgArticleId":73878669,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":"Vitemelange","wgUserGroups":["autoreviewer","sysop","*","user","autoconfirmed"],"wgCategories":["Userboxes with insufficient color contrast"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"User:Vitemelange/sandbox ","wgRelevantArticleId":73878669,"wgUserId":1909773,"wgUserIsTemp":false,"wgUserEditCount":
-177885,"wgUserRegistration":1154450765000,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRelevantUserName":"Vitemelange","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgNoticeProject":"wikipedia","wgNoticeUserData":{"registration":"20060801164605"},"wgGlobalGroups":[],"wgMediaViewerOnClick":false,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSAcceptLanguageList":["en-gb","en"],"wgULSBabelLanguages":[],"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgULSisLanguageSelectorEmpty":false,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":
-false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgEchoSeenTime":{"alert":"2023-05-24T19:47:51Z","notice":"2023-05-24T19:47:51Z"}};RLSTATE={"ext.gadget.Twinkle-pagestyles":"ready","ext.gadget.WatchlistBase":"ready","ext.gadget.WatchlistGreenIndicatorsMono":"ready","ext.gadget.WatchlistChangesBold":"ready","ext.gadget.UTCLiveClock-pagestyles":"ready","ext.gadget.DisambiguationLinks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"loading","user":"loading","user.options":"loading","skins.monobook.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.echo.styles.badge":"ready","oojs-ui.styles.icons-alerts":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.monobook.scripts","mediawiki.page.watch.ajax","mediawiki.misc-authed-pref","mmv.head",
-"mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.imagelinks","ext.gadget.Twinkle","ext.gadget.ReferenceTooltips","ext.gadget.formWizard","ext.gadget.find-archived-section","ext.gadget.geonotice","ext.gadget.watchlist-notice","ext.gadget.afchelper","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.edittop","ext.gadget.UTCLiveClock","ext.gadget.purgetab","ext.gadget.topalert","ext.gadget.switcher","ext.gadget.markblocked","ext.gadget.contribsrange","ext.gadget.XFDcloser","ext.centralauth.centralautologin.clearcookie","ext.echo.init","ext.uls.interface"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.load("//meta.wikimedia.org/w/load.php?lang=en\u0026modules=ext.globalCssJs.user\u0026skin=monobook\u0026user=Vitemelange\u0026version=1vabl");mw.loader.load("/w/load.php?lang=en\u0026modules=user\u0026skin=monobook\u0026user=Vitemelange\u0026version=ev221");mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"e73a40be8a6839e6bdb9b5d7f90e8620646e7bfd+\\","watchToken":"9d3ca61d1e9ea34ba465f9995b13f907646e7bfd+\\","csrfToken":"90b02b7028965e42567d62f6991a98cc646e7bfd+\\"});mw.user.options.set({"VectorSkinVersion":"1","ccmeonemails":"1","compact-language-links":0,"cx-entrypoint-fd-status":"shown","date":"dmy","discussiontools-editmode":"source","discussiontools-newtopictool-createpage":0,"discussiontools-newtopictool-hint-shown":"1","discussiontools-newtopictool-opened":"1","discussiontools-topicsubscription":0,"echo-subscriptions-push-cx":0,"echo-subscriptions-push-dt-subscription":0,"echo-subscriptions-push-edit-thank":0,"echo-subscriptions-push-edit-user-talk":0,"echo-subscriptions-push-emailuser":0,"echo-subscriptions-push-login-fail":0,"echo-subscriptions-push-login-success":0,"echo-subscriptions-push-mention":0,"echo-subscriptions-push-page-review":0,
-"echo-subscriptions-push-reverted":0,"echo-subscriptions-push-thank-you-edit":0,"echo-subscriptions-push-user-rights":0,"echo-subscriptions-push-wikibase-action":0,"echo-subscriptions-web-mention-failure":"1","echo-subscriptions-web-wikibase-action":0,"editsectiononrightclick":"1","enotifusertalkpages":0,"fancysig":"1","fileexporter":0,"flaggedrevseditdiffs":0,"forceeditsummary":"1","gadget-DisambiguationLinks":"1","gadget-SubtleUpdatemarker":0,"gadget-Twinkle":"1","gadget-UTCLiveClock":"1","gadget-WatchlistChangesBold":"1","gadget-XFDcloser":"1","gadget-afchelper":"1","gadget-confirmationRollback-mobile":0,"gadget-contribsrange":"1","gadget-edittop":"1","gadget-find-archived-section":"1","gadget-imagelinks":"1","gadget-markblocked":"1","gadget-purgetab":"1","gadget-topalert":"1","gender":"male","growthexperiments-homepage-se-filters":"[\"copyedit\",\"links\"]","ipinfo-beta-feature-enable":0,"mfWatchlistFilter":"all","mfWatchlistView":"feed","monobook-responsive":0,
-"multimediaviewer-enable":0,"norollbackdiff":"1","previewonfirst":"1","rcdays":"30","rcenhancedfilters-seen-highlight-button-counter":"19","rcenhancedfilters-seen-tour":"1","rcfilters-limit":"1000","rcfilters-rc-collapsed":0,"rcfilters-saved-queries":"{\"queries\":{},\"version\":\"2\"}","rcfilters-wl-collapsed":0,"rcfilters-wl-saved-queries":"{\"queries\":{},\"version\":\"2\"}","showhiddencats":"1","showrollbackconfirmation":"1","skin":"monobook","skin-responsive":0,"twl-notified":"yes","twocolconflict":0,"usecodemirror":"1","usecodemirror-colorblind":0,"usenewrc":"1","userjs-afch-decline-counts":"{\"adv\":56,\"reason\":118,\"nn\":37,\"bio\":22,\"blank\":16,\"exists\":3,\"neo\":1,\"music\":3,\"corp\":8,\"test\":6,\"web\":2,\"undefined\":31,\"v\":2,\"lang\":3,\"athlete\":2,\"\":2,\"npov\":2}","userjs-curationtoolbar":"hidden","userjs-igloo":
-"{\"updateTime\":3,\"hideOwn\":false,\"enableFeedColour\":true,\"updateQuantity\":10,\"hideBot\":false,\"maxContentSize\":50,\"version\":\"0.7.1 Igloo\",\"mesysop\":true,\"profFilter\":true,\"diffFontSize\":13,\"useKeys\":true,\"upDownKeys\":false,\"promptRevertSelf\":true,\"dropdownWinTimeout\":0.8,\"maxArchives\":20,\"logCSD\":false}","userjs-iglooFirstRun":"false","userjs-iglooRemoteConnect":"false","userjs-revslider-hide-help-dialogue":"1","userjs-xfdc":"{\"tfdDeleteAction\":\"deletePages\",\"watchlist\":\"nochange\"}","visualeditor-autodisable":"1","visualeditor-betatempdisable":"1","visualeditor-hidebetawelcome":"1","watchcreations":0,"watchlistdays":"30","watchlisthidebots":"1","watchlisthideown":"1","watchlisttoken":"0c52d84a120644e9a8584c39038aef4aa711d34b","wikieditor-realtime-preview":0,"wikilove-enabled":0,"wlenhancedfilters-seen-tour":"1"});});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.echo.styles.badge%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Coojs-ui.styles.icons-alerts%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook">
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=monobook"></script>
-<meta name="ResourceLoaderDynamicStyles" content="">
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.DisambiguationLinks%2CTwinkle-pagestyles%2CUTCLiveClock-pagestyles%2CWatchlistBase%2CWatchlistChangesBold%2CWatchlistGreenIndicatorsMono&amp;only=styles&amp;skin=monobook">
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook">
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=user.styles&amp;only=styles&amp;skin=monobook&amp;user=Vitemelange&amp;version=mrr66">
-<meta name="generator" content="MediaWiki 1.41.0-wmf.9">
-<meta name="referrer" content="origin">
-<meta name="referrer" content="origin-when-crossorigin">
-<meta name="referrer" content="origin-when-cross-origin">
-<meta name="robots" content="noindex,follow,max-image-preview:standard">
-<meta name="format-detection" content="telephone=no">
-<meta name="viewport" content="width=1000">
-<meta property="og:title" content="User:Vitemelange/sandbox  - Wikipedia">
-<meta property="og:type" content="website">
-<link rel="preconnect" href="//upload.wikimedia.org">
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/User:Vitemelange/sandbox ">
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=User:Vitemelange/sandbox &amp;action=edit">
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
-<link rel="icon" href="/static/favicon/wikipedia.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
-<link rel="canonical" href="https://en.wikipedia.org/wiki/User:Vitemelange/sandbox ">
-<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-2 ns-subject mw-editable page-User_Vitemelange_sandbox6 rootpage-User_Vitemelange skin-monobook action-view"><div id="globalWrapper">
-        <div id="column-content">
-                <div id="content" class="mw-body" role="main">
-                        <a id="top"></a>
-                        <div id="siteNotice"><!-- CentralNotice --></div>
-                        <div class="mw-indicators">
-                        </div>
-                        <h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">User</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Vitemelange/sandbox </span></h1>
-                        <div id="bodyContent" class="monobook-body">
-                       </div>
-                                <div id="contentSub" ><div id="mw-content-subtitle"><div class="subpages">&lt; <a href="temelange</a></div></div></div>
 
-                                <div id="jump-to-nav"></div><a href="#column-one" class="mw-jump-link">Jump to navigation</a><a href="#searchInput" class="mw-jump-link">Jump to search</a>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    </title>
+    <script>
+        document.documentElement.className = "client-js";
+        RLCONF = {
+            "wgBreakFrameAs": false,
+            "wgSeparatorTransformTable": ["", ""],
+            "wgDigitTransformTable": ["", ""],
+            "wgDefaultDateFormat": "dmy",
+            "wgMonthNames": ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+            "wgRequestId": "2ae640d2-a0da-4b4e-ae2d-6d647061b276",
+            "wgCSPNonce": false,
+            "wgCanonicalNamespace": "",
+            "wgCanonicalSpecialPageName": false,
+            "wgNamespaceNumber": 2,
+            "wgPageName": ":/ ",
+            "wgTitle": "/ ",
+            "wgCurRevisionId": 1156830977,
+            "wgRevisionId": 1156830977,
+            "wgArticleId": 73878669,
+            "wgIsArticle": true,
+            "wgIsRedirect": false,
+            "wgAction": "view",
+            "wgName": ","
+            "wgGroups": ["autoreviewer", "sysop", "*", "user", "autoconfirmed"],
+            "wgCategories": ["boxes with insufficient color contrast"],
+            "wgPageContentLanguage": "en",
+            "wgPageContentModel": "wikitext",
+            "wgRelevantPageName": ":/ ",
+            "wgRelevantArticleId": 73878669,
+            "wgId": 1909773,
+            "wgIsTemp": false,
+            "wgEditCount": 177885,
+            "wgRegistration": 1154450765000,
+            "wgIsProbablyEditable": true,
+            "wgRelevantPageIsProbablyEditable": true,
+            "wgRestrictionEdit": [],
+            "wgRestrictionMove": [],
+            "wgRelevantName": "",
+            "wgFlaggedRevsParams": {
+                "tags": {
+                    "status": {
+                        "levels": 1
+                    }
+                }
+            },
+            "wgVisualEditor": {
+                "pageLanguageCode": "en",
+                "pageLanguageDir": "ltr",
+                "pageVariantFallbacks": "en"
+            },
+            "wgMFDisplayWikibaseDescriptions": {
+                "search": true,
+                "watchlist": true,
+                "tagline": false,
+                "nearby": true
+            },
+            "wgWMESchemaEditAttemptStepOversample": false,
+            "wgWMEPageLength": 5000,
+            "wgNoticeProject": "wikipedia",
+            "wgNoticeData": {
+                "registration": "20060801164605"
+            },
+            "wgGlobalGroups": [],
+            "wgMediaViewerOnClick": false,
+            "wgMediaViewerEnabledByDefault": true,
+            "wgPopupsFlags": 10,
+            "wgULSAcceptLanguageList": ["en-gb", "en"],
+            "wgULSBabelLanguages": [],
+            "wgULSCurrentAutonym": "English",
+            "wgEditSubmitButtonLabelPublish": true,
+            "wgULSPosition": "interlanguage",
+            "wgULSisCompactLinksEnabled": false,
+            "wgULSisLanguageSelectorEmpty": false,
+            "GEHomepageSuggestedEditsEnableTopics": true,
+            "wgGETopicsMatchModeEnabled": false,
+            "wgGEStructuredTaskRejectionReasonTextInputEnabled": false,
+            "wgGELevelingUpEnabledFor": false,
+            "wgEchoSeenTime": {
+                "alert": "2023-05-24T19:47:51Z",
+                "notice": "2023-05-24T19:47:51Z"
+            }
+        };
+        RLSTATE = {
+            "ext.gadget.Twinkle-pagestyles": "ready",
+            "ext.gadget.WatchlistBase": "ready",
+            "ext.gadget.WatchlistGreenIndicatorsMono": "ready",
+            "ext.gadget.WatchlistChangesBold": "ready",
+            "ext.gadget.UTCLiveClock-pagestyles": "ready",
+            "ext.gadget.DisambiguationLinks": "ready",
+            "ext.globalCssJs.user.styles": "ready",
+            "site.styles": "ready",
+            "user.styles": "ready",
+            "ext.globalCssJs.user": "loading",
+            "user": "loading",
+            "user.options": "loading",
+            "skins.monobook.styles": "ready",
+            "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+            "ext.wikimediaBadges": "ready",
+            "ext.echo.styles.badge": "ready",
+            "oojs-ui.styles.icons-alerts": "ready",
+            "ext.uls.interlanguage": "ready"
+        };
+        RLPAGEMODULES = ["site", "mediawiki.page.ready", "mediawiki.toc", "skins.monobook.scripts", "mediawiki.page.watch.ajax", "mediawiki.misc-authed-pref", "mmv.head",
+            "mmv.bootstrap.autostart", "ext.visualEditor.desktopArticleTarget.init", "ext.visualEditor.targetLoader", "ext.eventLogging", "ext.wikimediaEvents", "ext.navigationTiming", "ext.cx.eventlogging.campaigns", "ext.centralNotice.geoIP", "ext.centralNotice.startUp", "ext.gadget.imagelinks", "ext.gadget.Twinkle", "ext.gadget.ReferenceTooltips", "ext.gadget.formWizard", "ext.gadget.find-archived-section", "ext.gadget.geonotice", "ext.gadget.watchlist-notice", "ext.gadget.afchelper", "ext.gadget.charinsert", "ext.gadget.extra-toolbar-buttons", "ext.gadget.edittop", "ext.gadget.UTCLiveClock", "ext.gadget.purgetab", "ext.gadget.topalert", "ext.gadget.switcher", "ext.gadget.markblocked", "ext.gadget.contribsrange", "ext.gadget.XFDcloser", "ext.centralauth.centralautologin.clearcookie", "ext.echo.init", "ext.uls.interface"
+        ];
+    </script>
+    <script>
+        (RLQ = window.RLQ || []).push(function() {
+            mw.loader.load("//meta.wikimedia.org/w/load.php?lang=en\u0026modules=ext.globalCssJs.user\u0026skin=monobook\u0026user=\u0026version=1vabl");
+            mw.loader.load("/w/load.php?lang=en\u0026modules=user\u0026skin=monobook\u0026user=\u0026version=ev221");
+            mw.loader.implement("user.options@12s5i", function($, jQuery, require, module) {
+                mw.user.tokens.set({
+                    "patrolToken": "e73a40be8a6839e6bdb9b5d7f90e8620646e7bfd+\\",
+                    "watchToken": "9d3ca61d1e9ea34ba465f9995b13f907646e7bfd+\\",
+                    "csrfToken": "90b02b7028965e42567d62f6991a98cc646e7bfd+\\"
+                });
+                mw.user.options.set({
+                    "VectorSkinVersion": "1",
+                    "ccmeonemails": "1",
+                    "compact-language-links": 0,
+                    "cx-entrypoint-fd-status": "shown",
+                    "date": "dmy",
+                    "discussiontools-editmode": "source",
+                    "discussiontools-newtopictool-createpage": 0,
+                    "discussiontools-newtopictool-hint-shown": "1",
+                    "discussiontools-newtopictool-opened": "1",
+                    "discussiontools-topicsubscription": 0,
+                    "echo-subscriptions-push-cx": 0,
+                    "echo-subscriptions-push-dt-subscription": 0,
+                    "echo-subscriptions-push-edit-thank": 0,
+                    "echo-subscriptions-push-edit-user-talk": 0,
+                    "echo-subscriptions-push-emailuser": 0,
+                    "echo-subscriptions-push-login-fail": 0,
+                    "echo-subscriptions-push-login-success": 0,
+                    "echo-subscriptions-push-mention": 0,
+                    "echo-subscriptions-push-page-review": 0,
+                    "echo-subscriptions-push-reverted": 0,
+                    "echo-subscriptions-push-thank-you-edit": 0,
+                    "echo-subscriptions-push-user-rights": 0,
+                    "echo-subscriptions-push-wikibase-action": 0,
+                    "echo-subscriptions-web-mention-failure": "1",
+                    "echo-subscriptions-web-wikibase-action": 0,
+                    "editsectiononrightclick": "1",
+                    "enotifusertalkpages": 0,
+                    "fancysig": "1",
+                    "fileexporter": 0,
+                    "flaggedrevseditdiffs": 0,
+                    "forceeditsummary": "1",
+                    "gadget-DisambiguationLinks": "1",
+                    "gadget-SubtleUpdatemarker": 0,
+                    "gadget-Twinkle": "1",
+                    "gadget-UTCLiveClock": "1",
+                    "gadget-WatchlistChangesBold": "1",
+                    "gadget-XFDcloser": "1",
+                    "gadget-afchelper": "1",
+                    "gadget-confirmationRollback-mobile": 0,
+                    "gadget-contribsrange": "1",
+                    "gadget-edittop": "1",
+                    "gadget-find-archived-section": "1",
+                    "gadget-imagelinks": "1",
+                    "gadget-markblocked": "1",
+                    "gadget-purgetab": "1",
+                    "gadget-topalert": "1",
+                    "gender": "male",
+                    "growthexperiments-homepage-se-filters": "[\"copyedit\",\"links\"]",
+                    "ipinfo-beta-feature-enable": 0,
+                    "mfWatchlistFilter": "all",
+                    "mfWatchlistView": "feed",
+                    "monobook-responsive": 0,
+                    "multimediaviewer-enable": 0,
+                    "norollbackdiff": "1",
+                    "previewonfirst": "1",
+                    "rcdays": "30",
+                    "rcenhancedfilters-seen-highlight-button-counter": "19",
+                    "rcenhancedfilters-seen-tour": "1",
+                    "rcfilters-limit": "1000",
+                    "rcfilters-rc-collapsed": 0,
+                    "rcfilters-saved-queries": "{\"queries\":{},\"version\":\"2\"}",
+                    "rcfilters-wl-collapsed": 0,
+                    "rcfilters-wl-saved-queries": "{\"queries\":{},\"version\":\"2\"}",
+                    "showhiddencats": "1",
+                    "showrollbackconfirmation": "1",
+                    "skin": "monobook",
+                    "skin-responsive": 0,
+                    "twl-notified": "yes",
+                    "twocolconflict": 0,
+                    "usecodemirror": "1",
+                    "usecodemirror-colorblind": 0,
+                    "usenewrc": "1",
+                    "userjs-afch-decline-counts": "{\"adv\":56,\"reason\":118,\"nn\":37,\"bio\":22,\"blank\":16,\"exists\":3,\"neo\":1,\"music\":3,\"corp\":8,\"test\":6,\"web\":2,\"undefined\":31,\"v\":2,\"lang\":3,\"athlete\":2,\"\":2,\"npov\":2}",
+                    "userjs-curationtoolbar": "hidden",
+                    "userjs-igloo": "{\"updateTime\":3,\"hideOwn\":false,\"enableFeedColour\":true,\"updateQuantity\":10,\"hideBot\":false,\"maxContentSize\":50,\"version\":\"0.7.1 Igloo\",\"mesysop\":true,\"profFilter\":true,\"diffFontSize\":13,\"useKeys\":true,\"upDownKeys\":false,\"promptRevertSelf\":true,\"dropdownWinTimeout\":0.8,\"maxArchives\":20,\"logCSD\":false}",
+                    "userjs-iglooFirstRun": "false",
+                    "userjs-iglooRemoteConnect": "false",
+                    "userjs-revslider-hide-help-dialogue": "1",
+                    "userjs-xfdc": "{\"tfdDeleteAction\":\"deletePages\",\"watchlist\":\"nochange\"}",
+                    "visualeditor-autodisable": "1",
+                    "visualeditor-betatempdisable": "1",
+                    "visualeditor-hidebetawelcome": "1",
+                    "watchcreations": 0,
+                    "watchlistdays": "30",
+                    "watchlisthidebots": "1",
+                    "watchlisthideown": "1",
+                    "watchlisttoken": "0c52d84a120644e9a8584c39038aef4aa711d34b",
+                    "wikieditor-realtime-preview": 0,
+                    "wikilove-enabled": 0,
+                    "wlenhancedfilters-seen-tour": "1"
+                });
+            });
+        });
+    </script>
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.echo.styles.badge%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Coojs-ui.styles.icons-alerts%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook">
+    <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=monobook"></script>
+    <meta name="ResourceLoaderDynamicStyles" content="">
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.DisambiguationLinks%2CTwinkle-pagestyles%2CUTCLiveClock-pagestyles%2CWatchlistBase%2CWatchlistChangesBold%2CWatchlistGreenIndicatorsMono&amp;only=styles&amp;skin=monobook">
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook">
+    <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=user.styles&amp;only=styles&amp;skin=monobook&amp;user=&amp;version=mrr66">
+    <meta name="generator" content="MediaWiki 1.41.0-wmf.9">
+    <meta name="referrer" content="origin">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="referrer" content="origin-when-cross-origin">
+    <meta name="robots" content="noindex,follow,max-image-preview:standard">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=1000">
+    <meta property="og:title" content=":/  - Wikipedia">
+    <meta property="og:type" content="website">
+    <link rel="preconnect" href="//upload.wikimedia.org">
+    <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/:/ ">
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=:/ &amp;action=edit">
+    <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+    <link rel="icon" href="/static/favicon/wikipedia.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/:/ ">
+    <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+    <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-2 ns-subject mw-editable page-__6 rootpage-_ skin-monobook action-view">
+    <div id="globalWrapper">
+        <div id="column-content">
+            <div id="content" class="mw-body" role="main">
+                <a id="top"></a>
+                <div id="siteNotice">
+                    <!-- CentralNotice -->
+                </div>
+                <div class="mw-indicators">
+                </div>
+                <h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace"></span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">/ </span></h1>
+                <div id="bodyContent" class="monobook-body">
+                </div>
+                <div id="contentSub">
+                    <div id="mw-content-subtitle">
+                        <div class="subpages">&lt; <a href="temelange</a></div></div></div>
+
+                                <div id=" jump-to-nav "></div><a href="#column-one " class="mw-jump-link "></a><a href="#searchInput " class="mw-jump-link "></a>
                                 <!-- start content -->
-                                <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="wikipediauserbox" style="float:left;border:1px solid #8d40b3;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#f0e6f5"><tbody><tr><td style="border:0;width:45px;height:45px;background:#d9bfe5;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><img alt="Noia 64 apps karm.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Noia_64_apps_karm.svg/42px-Noia_64_apps_karm.svg.png" decoding="async" width="42" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Noia_64_apps_karm.svg/63px-Noia_64_apps_karm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Noia_64_apps_karm.svg/84px-Noia_64_apps_karm.svg.png 2x" data-file-width="51" data-file-height="50" /></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.1;color:black;vertical-align:middle"><span class="plainlinks neverexpand"> This user has been on Wikipedia for <b>2022&#160;years, 4&#160;months, and 23&#160;days</b>.</span></td></tr></tbody></table></div>
+                                <div id="mw-content-text " class="mw-body-content mw-content-ltr " lang="en " dir="ltr "><div class="mw-parser-output "><div class="wikipediauserbox " style="float:left;border:1px solid #8d40b3;margin:1px;width:238px
+                                "><table role="presentation " style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#f0e6f5 "><tbody><tr><td style="border:0;width:45px;height:45px;background:#d9bfe5;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0
+                                1px 0 0;line-height:1.25em;vertical-align:middle "><img alt="Noia 64 apps karm.svg " src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Noia_64_apps_karm.svg/42px-Noia_64_apps_karm.svg.png " decoding="async " width="42
+                                " height="41 " srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Noia_64_apps_karm.svg/63px-Noia_64_apps_karm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Noia_64_apps_karm.svg/84px-Noia_64_apps_karm.svg.png
+                                2x " data-file-width="51 " data-file-height="50 " /></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.1;color:black;vertical-align:middle "><span class="plainlinks neverexpand "> This user has been on Wikipedia for <b>2022&#160;years, 4&#160;months, and 23&#160;days</b>.</span></td></tr></tbody></table></div>
 <p><br />
 <br />
 </p>
-<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<div id="toc " class="toc " role="navigation " aria-labelledby="mw-toc-heading "><input type="checkbox " role="button " id="toctogglecheckbox " class="toctogglecheckbox " style="display:none " /><div class="toctitle " lang="en " dir="ltr "><h2 id="mw-toc-heading
+                                ">Contents</h2><span class="toctogglespan "><label class="toctogglelabel " for="toctogglecheckbox "></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#we&#39;re_going_to_do_crazy_things_together_you_and_i_。︀。︀。︀"><span class="tocnumber">1</span> <span class="toctext">we're going to do crazy things together you and i 。︀。︀。︀</span></a>
+<li class="toclevel-1 tocsection-1 "><a href="#we&#39;re_going_to_do_crazy_things_together_you_and_i_。︀。︀。︀ "><span class="tocnumber ">1</span> <span class="toctext ">we're going to do crazy things together you and i 。︀。︀。︀</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#SOLVITUR_AMBULANDO_:3"><span class="tocnumber">1.1</span> <span class="toctext"><b>SOLVITUR AMBULANDO :3</b></span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#CETERUM_CENSEO_:3"><span class="tocnumber">1.2</span> <span class="toctext"><b>CETERUM CENSEO :3</b></span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#CARTHAGO_DELENDA_EST_:3"><span class="tocnumber">1.3</span> <span class="toctext"><b>CARTHAGO DELENDA EST :3</b></span></a></li>
+<li class="toclevel-2 tocsection-2 "><a href="#SOLVITUR_AMBULANDO_:3 "><span class="tocnumber ">1.1</span> <span class="toctext "><b>SOLVITUR AMBULANDO :3</b></span></a></li>
+<li class="toclevel-2 tocsection-3 "><a href="#CETERUM_CENSEO_:3 "><span class="tocnumber ">1.2</span> <span class="toctext "><b>CETERUM CENSEO :3</b></span></a></li>
+<li class="toclevel-2 tocsection-4 "><a href="#CARTHAGO_DELENDA_EST_:3 "><span class="tocnumber ">1.3</span> <span class="toctext "><b>CARTHAGO DELENDA EST :3</b></span></a></li>
 </ul>
 </li>
 </ul>
 </div>
 
-<h1><span id="we.27re_going_to_do_crazy_things_together_you_and_i_.E3.80.82.EF.B8.80.E3.80.82.EF.B8.80.E3.80.82.EF.B8.80"></span><span class="mw-headline" id="we're_going_to_do_crazy_things_together_you_and_i_。︀。︀。︀">we're going to do crazy things together you and i 。︀。︀。︀</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User:Vitemelange/sandbox &amp;action=edit&amp;section=1" title="Edit section: we&#039;re going to do crazy things together you and i 。︀。︀。︀">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
-<div class="wikipediauserbox" style="float:left;border:1px solid #dba94a;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#dba94a"><tbody><tr><td style="border:0;width:45px;height:45px;background:#dba94a;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Go_board_part.jpg" class="image"><img alt="Go board part.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Go_board_part.jpg/45px-Go_board_part.jpg" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Go_board_part.jpg/68px-Go_board_part.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Go_board_part.jpg/90px-Go_board_part.jpg 2x" data-file-width="512" data-file-height="512" /></a></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user is a 10th dan <i><a href="/wiki/Go_(game)" title="Go (game)">Go</a></i> ultragrandmaster.</td></tr></tbody></table></div>
-<div class="wikipediauserbox" style="float:left;border:1px solid #000000;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#02b802"><tbody><tr><td style="border:0;width:45px;height:45px;background:#ffffff;text-align:center;font-size:14pt;font-weight:bold;color:#000000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Lisc_lipy.jpg" class="image"><img alt="Lisc lipy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lisc_lipy.jpg/40px-Lisc_lipy.jpg" decoding="async" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lisc_lipy.jpg/60px-Lisc_lipy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lisc_lipy.jpg/80px-Lisc_lipy.jpg 2x" data-file-width="1014" data-file-height="1200" /></a></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#ffffff;vertical-align:middle">This user talks to <a href="/wiki/Plants" class="mw-redirect" title="Plants">plants</a>.</td></tr></tbody></table></div>
-<div style="float: left; border:solid #BB6699 1px; margin: 0px;">
-<table cellspacing="0" style="width: 238px; background: #FFD0E0;">
-<tbody><tr>
-<td style="width: 45px; height: 45px; background: #BB6699; text-align: center; font-size: 14pt; color: black;"><b><a href="/wiki/File:Userbox_love.svg" class="image"><img alt="Userbox love.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Userbox_love.svg/44px-Userbox_love.svg.png" decoding="async" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Userbox_love.svg/66px-Userbox_love.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Userbox_love.svg/88px-Userbox_love.svg.png 2x" data-file-width="64" data-file-height="64" /></a></b>
-</td>
-<td style="font-size: 8pt; padding: 4pt; line-height: 1.25em; color: black;">look behind <a href="/wiki/You" title="You">you</a><b>.</b>
-</td></tr></tbody></table></div>
-<div class="wikipediauserbox" style="float:left;border:2px solid #aaffaa;margin:1px;width:236px"><table role="presentation" style="border-collapse:collapse;width:236px;margin-bottom:0;margin-top:0;background:#eee"><tbody><tr><td style="border:0;width:45px;height:45px;background:#ffffee;text-align:center;font-size:20pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">foo</td><td style="border:0;text-align:left;font-size:12pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle"><i>foo bar</i></td></tr></tbody></table></div>
-<div class="wikipediauserbox" style="float:left;border:2px solid #550055;margin:1px;width:236px"><table role="presentation" style="border-collapse:collapse;width:236px;margin-bottom:0;margin-top:0;background:#000011"><tbody><tr><td style="border:0;width:45px;height:45px;background:#000011;text-align:center;font-size:20pt;font-weight:bold;color:#ffffff;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">bar</td><td style="border:0;text-align:left;font-size:12pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#ffffff;vertical-align:middle"><i>bar foo</i></td></tr></tbody></table></div>
-<p><br />
-</p>
-<div class="wikipediauserbox" style="float:left;border:1px solid black;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#927575"><tbody><tr><td style="border:0;width:45px;height:45px;background:#ffffff;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Rotring_pens.jpg" class="image"><img alt="Rotring pens.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rotring_pens.jpg/77px-Rotring_pens.jpg" decoding="async" width="77" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rotring_pens.jpg/116px-Rotring_pens.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rotring_pens.jpg/154px-Rotring_pens.jpg 2x" data-file-width="1440" data-file-height="1080" /></a></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">このユーザーは、の名の下に輝かしい死を遂げます((<a href="/wiki/Rotring" title="Rotring">Rotring</a>))</td></tr></tbody></table></div>
-<div class="wikipediauserbox" style="float:left;border:1px solid yellow;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#8AE234"><tbody><tr><td style="border:0;width:45px;height:45px;background:#dddddd;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:DSC09858_-_Sun_Conure_(36386482514).jpg" class="image" title="DSC09858_-_Sun_Conure_(36386482514)]"><img alt="DSC09858_-_Sun_Conure_(36386482514)]" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DSC09858_-_Sun_Conure_%2836386482514%29.jpg/63px-DSC09858_-_Sun_Conure_%2836386482514%29.jpg" decoding="async" width="63" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DSC09858_-_Sun_Conure_%2836386482514%29.jpg/95px-DSC09858_-_Sun_Conure_%2836386482514%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DSC09858_-_Sun_Conure_%2836386482514%29.jpg/126px-DSC09858_-_Sun_Conure_%2836386482514%29.jpg 2x" data-file-width="4000" data-file-height="6000" /></a></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;line-height:1.25em;color:black;vertical-align:middle">What is a <a href="/wiki/Monarch" title="Monarch">Monarch</a> to a <a href="/wiki/God" title="God">God</a>!</td><td style="border:0;width:45px;height:45px;background:#dddddd;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 0 0 1px;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Blue_parakeet.jpg" class="image" title="Blue_parakeet"><img alt="Blue_parakeet" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_parakeet.jpg/70px-Blue_parakeet.jpg" decoding="async" width="70" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_parakeet.jpg/105px-Blue_parakeet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_parakeet.jpg/140px-Blue_parakeet.jpg 2x" data-file-width="1178" data-file-height="1620" /></a></td></tr></tbody></table></div>
-<p><br />
-</p>
-<div class="wikipediauserbox" style="float:left;border:1px solid #f9dc00;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#333333"><tbody><tr><td style="border:0;width:45px;height:45px;background:#333333;text-align:center;font-size:14pt;font-weight:bold;color:#f9dc00;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Coat_of_arms_of_Transcaspian_Oblast_1890.svg" class="image"><img alt="Coat of arms of Transcaspian Oblast 1890.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Transcaspian_Oblast_1890.svg/60px-Coat_of_arms_of_Transcaspian_Oblast_1890.svg.png" decoding="async" width="60" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Transcaspian_Oblast_1890.svg/90px-Coat_of_arms_of_Transcaspian_Oblast_1890.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Transcaspian_Oblast_1890.svg/120px-Coat_of_arms_of_Transcaspian_Oblast_1890.svg.png 2x" data-file-width="709" data-file-height="776" /></a></td><td style="border:0;text-align:left;font-size:9pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#f9dc00;vertical-align:middle;font-family:&#39;Times New Roman&#39;; text-align:center;"><i>This user is riding on the back of the tiger!</i></td></tr></tbody></table></div>
-<p><br />
-</p>
-<div style="float: left; border:solid orange 1px; margin: 1px;">
-<table cellspacing="0" style="width: 238px; background: black;">
-<tbody><tr>
-<td style="width: 45px; height: 45px; background: black; text-align: center; font-size: 14pt; color: White;"><b><a href="/wiki/File:Lee_Se-Dol.jpg" class="image"><img alt="Lee Se-Dol.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lee_Se-Dol.jpg/70px-Lee_Se-Dol.jpg" decoding="async" width="70" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lee_Se-Dol.jpg/105px-Lee_Se-Dol.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lee_Se-Dol.jpg/140px-Lee_Se-Dol.jpg 2x" data-file-width="650" data-file-height="598" /></a></b>
-</td>
-<td style="font-size: 8pt; padding: 4pt; line-height: 1.25em; color: white;"><b>This user is a staunch supporter of <a href="/wiki/Lee_Sedol" title="Lee Sedol">Lee Sedol</a>'s eternal mandate of heaven.</b>
-</td></tr></tbody></table></div>
-<div style="float:left; border: 1px solid red; margin: 1px; width: 480px;" class="wikipediauserbox">
-<table style="border-collapse:collapse; width: 480px; margin-bottom:0; background:white">
+<h1><span id="we.27re_going_to_do_crazy_things_together_you_and_i_.E3.80.82.EF.B8.80.E3.80.82.EF.B8.80.E3.80.82.EF.B8.80 "></span><span class="mw-headline " id="we 're_going_to_do_crazy_things_together_you_and_i_。︀。︀。︀">we're going to do crazy things
+                                together you and i 。︀。︀。︀</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=:/ &amp;action=edit&amp;section=1" title="Edit section: we&#039;re going to do crazy things together you and i 。︀。︀。︀">edit</a>
+                            <span class="mw-editsection-bracket">]</span>
+                            </span>
+                            </h1>
+                            <div class="wikipediauserbox" style="float:left;border:1px solid #dba94a;margin:1px;width:238px">
+                                <table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#dba94a">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#dba94a;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Go_board_part.jpg" class="image"><img alt="Go board part.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Go_board_part.jpg/45px-Go_board_part.jpg" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Go_board_part.jpg/68px-Go_board_part.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Go_board_part.jpg/90px-Go_board_part.jpg 2x" data-file-width="512" data-file-height="512" /></a></td>
+                                            <td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user is a 10th dan <i><a href="/wiki/Go_(game)" title="Go (game)">Go</a></i> ultragrandmaster.</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="wikipediauserbox" style="float:left;border:1px solid #000000;margin:1px;width:238px">
+                                <table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#02b802">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#ffffff;text-align:center;font-size:14pt;font-weight:bold;color:#000000;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Lisc_lipy.jpg" class="image"><img alt="Lisc lipy.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lisc_lipy.jpg/40px-Lisc_lipy.jpg" decoding="async" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lisc_lipy.jpg/60px-Lisc_lipy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lisc_lipy.jpg/80px-Lisc_lipy.jpg 2x" data-file-width="1014" data-file-height="1200" /></a></td>
+                                            <td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#ffffff;vertical-align:middle">This user talks to <a href="/wiki/Plants" class="mw-redirect" title="Plants">plants</a>.</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div style="float: left; border:solid #BB6699 1px; margin: 0px;">
+                                <table cellspacing="0" style="width: 238px; background: #FFD0E0;">
+                                    <tbody>
+                                        <tr>
+                                            <td style="width: 45px; height: 45px; background: #BB6699; text-align: center; font-size: 14pt; color: black;"><b><a href="/wiki/File:box_love.svg" class="image"><img alt="box love.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Userbox_love.svg/44px-Userbox_love.svg.png" decoding="async" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Userbox_love.svg/66px-Userbox_love.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Userbox_love.svg/88px-Userbox_love.svg.png 2x" data-file-width="64" data-file-height="64" /></a></b>
+                                            </td>
+                                            <td style="font-size: 8pt; padding: 4pt; line-height: 1.25em; color: black;">look behind <a href="/wiki/You" title="You">you</a><b>.</b>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="wikipediauserbox" style="float:left;border:2px solid #aaffaa;margin:1px;width:236px">
+                                <table role="presentation" style="border-collapse:collapse;width:236px;margin-bottom:0;margin-top:0;background:#eee">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#ffffee;text-align:center;font-size:20pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">foo</td>
+                                            <td style="border:0;text-align:left;font-size:12pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle"><i>foo bar</i></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="wikipediauserbox" style="float:left;border:2px solid #550055;margin:1px;width:236px">
+                                <table role="presentation" style="border-collapse:collapse;width:236px;margin-bottom:0;margin-top:0;background:#000011">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#000011;text-align:center;font-size:20pt;font-weight:bold;color:#ffffff;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle">bar</td>
+                                            <td style="border:0;text-align:left;font-size:12pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#ffffff;vertical-align:middle"><i>bar foo</i></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <p><br />
+                            </p>
+                            <div class="wikipediauserbox" style="float:left;border:1px solid black;margin:1px;width:238px">
+                                <table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#927575">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#ffffff;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Rotring_pens.jpg" class="image"><img alt="Rotring pens.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rotring_pens.jpg/77px-Rotring_pens.jpg" decoding="async" width="77" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rotring_pens.jpg/116px-Rotring_pens.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rotring_pens.jpg/154px-Rotring_pens.jpg 2x" data-file-width="1440" data-file-height="1080" /></a></td>
+                                            <td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">このユーザーは、の名の下に輝かしい死を遂げます((<a href="/wiki/Rotring" title="Rotring">Rotring</a>))</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="wikipediauserbox" style="float:left;border:1px solid yellow;margin:1px;width:238px">
+                                <table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#8AE234">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#dddddd;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:DSC09858_-_Sun_Conure_(36386482514).jpg" class="image" title="DSC09858_-_Sun_Conure_(36386482514)]"><img alt="DSC09858_-_Sun_Conure_(36386482514)]" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DSC09858_-_Sun_Conure_%2836386482514%29.jpg/63px-DSC09858_-_Sun_Conure_%2836386482514%29.jpg" decoding="async" width="63" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DSC09858_-_Sun_Conure_%2836386482514%29.jpg/95px-DSC09858_-_Sun_Conure_%2836386482514%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DSC09858_-_Sun_Conure_%2836386482514%29.jpg/126px-DSC09858_-_Sun_Conure_%2836386482514%29.jpg 2x" data-file-width="4000" data-file-height="6000" /></a></td>
+                                            <td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;line-height:1.25em;color:black;vertical-align:middle">What is a <a href="/wiki/Monarch" title="Monarch">Monarch</a> to a <a href="/wiki/God" title="God">God</a>!</td>
+                                            <td style="border:0;width:45px;height:45px;background:#dddddd;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 0 0 1px;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Blue_parakeet.jpg" class="image" title="Blue_parakeet"><img alt="Blue_parakeet" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_parakeet.jpg/70px-Blue_parakeet.jpg" decoding="async" width="70" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_parakeet.jpg/105px-Blue_parakeet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_parakeet.jpg/140px-Blue_parakeet.jpg 2x" data-file-width="1178" data-file-height="1620" /></a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <p><br />
+                            </p>
+                            <div class="wikipediauserbox" style="float:left;border:1px solid #f9dc00;margin:1px;width:238px">
+                                <table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#333333">
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0;width:45px;height:45px;background:#333333;text-align:center;font-size:14pt;font-weight:bold;color:#f9dc00;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Coat_of_arms_of_Transcaspian_Oblast_1890.svg" class="image"><img alt="Coat of arms of Transcaspian Oblast 1890.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Transcaspian_Oblast_1890.svg/60px-Coat_of_arms_of_Transcaspian_Oblast_1890.svg.png" decoding="async" width="60" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Transcaspian_Oblast_1890.svg/90px-Coat_of_arms_of_Transcaspian_Oblast_1890.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_arms_of_Transcaspian_Oblast_1890.svg/120px-Coat_of_arms_of_Transcaspian_Oblast_1890.svg.png 2x" data-file-width="709" data-file-height="776" /></a></td>
+                                            <td style="border:0;text-align:left;font-size:9pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:#f9dc00;vertical-align:middle;font-family:&#39;Times New Roman&#39;; text-align:center;"><i>This user is riding on the back of the tiger!</i></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <p><br />
+                            </p>
+                            <div style="float: left; border:solid orange 1px; margin: 1px;">
+                                <table cellspacing="0" style="width: 238px; background: black;">
+                                    <tbody>
+                                        <tr>
+                                            <td style="width: 45px; height: 45px; background: black; text-align: center; font-size: 14pt; color: White;"><b><a href="/wiki/File:Lee_Se-Dol.jpg" class="image"><img alt="Lee Se-Dol.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lee_Se-Dol.jpg/70px-Lee_Se-Dol.jpg" decoding="async" width="70" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lee_Se-Dol.jpg/105px-Lee_Se-Dol.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lee_Se-Dol.jpg/140px-Lee_Se-Dol.jpg 2x" data-file-width="650" data-file-height="598" /></a></b>
+                                            </td>
+                                            <td style="font-size: 8pt; padding: 4pt; line-height: 1.25em; color: white;"><b>This user is a staunch supporter of <a href="/wiki/Lee_Sedol" title="Lee Sedol">Lee Sedol</a>'s eternal mandate of heaven.</b>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div style="float:left; border: 1px solid red; margin: 1px; width: 480px;" class="wikipediauserbox">
+                                <table style="border-collapse:collapse; width: 480px; margin-bottom:0; background:white">
 
-<tbody><tr>
-<td style="border:0; text-align:justify; font-size:8pt; padding:0 4px 0 4px; height:45px; line-height:1.25em; color:black; vertical-align: middle;"><a href="/w/index.php?title=%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5MOUSE_CAN_EVERYTHING!%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5&amp;action=edit&amp;redlink=1" class="new" title="ふふふふふふふふふふふふふふMOUSE CAN EVERYTHING!ふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふ (page does not exist)">ふふふふふふふふふふふふふふMOUSE CAN EVERYTHING!ふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふ</a>
-</td></tr></tbody></table></div>
-<div style="float:left; border: 5px solid yellow; margin: 1px; width: 472px;" class="wikipediauserbox">
-<table style="border-collapse:collapse; width: 472px; margin-bottom:0; background:#000000">
-<tbody><tr>
-<th style="border:0; width: 45px; height:45px; background:#008000; text-align:center; font-size:17pt; color:#ffffff; padding:0 1px 0 0; line-height:1.25em; vertical-align: middle;"><a href="/wiki/File:Atomo_hidrogeno.gif" class="image" title="Atomo_hidrogeno"><img alt="Atomo_hidrogeno" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomo_hidrogeno.gif/75px-Atomo_hidrogeno.gif" decoding="async" width="75" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomo_hidrogeno.gif/113px-Atomo_hidrogeno.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomo_hidrogeno.gif/150px-Atomo_hidrogeno.gif 2x" data-file-width="320" data-file-height="240" /></a>
-</th>
-<td style="border:0; text-align:left; font-size:9pt; padding:0 4px 0 4px; height:45px; line-height:1.25em; color:#fff; vertical-align: middle;">This user is currently powered by a <a href="/wiki/Hydrogen_fuel_cell" class="mw-redirect" title="Hydrogen fuel cell">hydrogen fuel cell</a> due to emissions regulations.
-</td></tr></tbody></table></div>
-<p><br />
-</p><p><br />
-</p><p><br />
-</p><p><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-</p>
-<h2><span class="mw-headline" id="SOLVITUR_AMBULANDO_:3"><b>SOLVITUR AMBULANDO :3</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User:Vitemelange/sandbox &amp;action=edit&amp;section=2" title="Edit section: SOLVITUR AMBULANDO :3">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>things come to me in dreams. i have witnessed all beautiful things
-</p><p>je rêve d'affaires mondaines. j'ai été témoin de toute la beauté du monde.
-</p><p>i miei sogni sono quelli di un chiaroveggente. ho visto ogni cosa bella che abbia mai creato e creerà.
-</p><p>.احلامي تظهر لي عجائب الكون. وجودي يثبت جمال الخلق
-<br />
-<a href="/wiki/File:New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg" class="image" title="New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027"><img alt="New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg/444px-New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg" decoding="async" width="444" height="295" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg/666px-New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg/888px-New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg 2x" data-file-width="5240" data-file-height="3481" /></a>
-</p>
-<h2><span class="mw-headline" id="CETERUM_CENSEO_:3"><b>CETERUM CENSEO :3</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User:Vitemelange/sandbox &amp;action=edit&amp;section=3" title="Edit section: CETERUM CENSEO :3">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>most importantly, consign to silence what mysticisms we cannot speak about
-</p>
-<h2><span class="mw-headline" id="CARTHAGO_DELENDA_EST_:3"><b>CARTHAGO DELENDA EST :3</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User:Vitemelange/sandbox &amp;action=edit&amp;section=4" title="Edit section: CARTHAGO DELENDA EST :3">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><span style="color:white">the next foxhole you stick your head into could be your last, wanderer :3</span>
-?
-‎
-</p>
-<!--
+                                    <tbody>
+                                        <tr>
+                                            <td style="border:0; text-align:justify; font-size:8pt; padding:0 4px 0 4px; height:45px; line-height:1.25em; color:black; vertical-align: middle;"><a href="/w/index.php?title=%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5MOUSE_CAN_EVERYTHING!%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5%E3%81%B5&amp;action=edit&amp;redlink=1"
+                                                    class="new" title="ふふふふふふふふふふふふふふMOUSE CAN EVERYTHING!ふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふ (page does not exist)">ふふふふふふふふふふふふふふMOUSE CAN EVERYTHING!ふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふふ</a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div style="float:left; border: 5px solid yellow; margin: 1px; width: 472px;" class="wikipediauserbox">
+                                <table style="border-collapse:collapse; width: 472px; margin-bottom:0; background:#000000">
+                                    <tbody>
+                                        <tr>
+                                            <th style="border:0; width: 45px; height:45px; background:#008000; text-align:center; font-size:17pt; color:#ffffff; padding:0 1px 0 0; line-height:1.25em; vertical-align: middle;"><a href="/wiki/File:Atomo_hidrogeno.gif" class="image" title="Atomo_hidrogeno"><img alt="Atomo_hidrogeno" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomo_hidrogeno.gif/75px-Atomo_hidrogeno.gif" decoding="async" width="75" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomo_hidrogeno.gif/113px-Atomo_hidrogeno.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomo_hidrogeno.gif/150px-Atomo_hidrogeno.gif 2x" data-file-width="320" data-file-height="240" /></a>
+                                            </th>
+                                            <td style="border:0; text-align:left; font-size:9pt; padding:0 4px 0 4px; height:45px; line-height:1.25em; color:#fff; vertical-align: middle;">This user is currently powered by a <a href="/wiki/Hydrogen_fuel_cell" class="mw-redirect" title="Hydrogen fuel cell">hydrogen fuel cell</a> due to emissions regulations.
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <p><br />
+                            </p>
+                            <p><br />
+                            </p>
+                            <p><br />
+                            </p>
+                            <p><br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                            </p>
+                            <h2><span class="mw-headline" id="SOLVITUR_AMBULANDO_:3"><b>SOLVITUR AMBULANDO :3</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User:/ &amp;action=edit&amp;section=2"
+                                    title="Edit section: SOLVITUR AMBULANDO :3">edit</a><span class="mw-editsection-bracket">]</span></span>
+                            </h2>
+                            <p>things come to me in dreams. i have witnessed all beautiful things
+                            </p>
+                            <p>je rêve d'affaires mondaines. j'ai été témoin de toute la beauté du monde.
+                            </p>
+                            <p>i miei sogni sono quelli di un chiaroveggente. ho visto ogni cosa bella che abbia mai creato e creerà.
+                            </p>
+                            <p>.احلامي تظهر لي عجائب الكون. وجودي يثبت جمال الخلق
+                                <br />
+                                <a href="/wiki/File:New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg" class="image" title="New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027"><img alt="New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg/444px-New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg" decoding="async" width="444" height="295" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg/666px-New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg/888px-New_Jersey_Air_National_Guard_trains_with_Bulgarian_air_force_at_Thracian_Star_2015_150717-Z-YH452-027.jpg 2x" data-file-width="5240" data-file-height="3481" /></a>
+                            </p>
+                            <h2><span class="mw-headline" id="CETERUM_CENSEO_:3"><b>CETERUM CENSEO :3</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User:/ &amp;action=edit&amp;section=3"
+                                    title="Edit section: CETERUM CENSEO :3">edit</a><span class="mw-editsection-bracket">]</span></span>
+                            </h2>
+                            <p>most importantly, consign to silence what mysticisms we cannot speak about
+                            </p>
+                            <h2><span class="mw-headline" id="CARTHAGO_DELENDA_EST_:3"><b>CARTHAGO DELENDA EST :3</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=:/ &amp;action=edit&amp;section=4"
+                                    title="Edit section: CARTHAGO DELENDA EST :3">edit</a><span class="mw-editsection-bracket">]</span></span>
+                            </h2>
+                            <p><span style="color:white">the next foxhole you stick your head into could be your last, wanderer :3</span> ? ‎
+                            </p>
+                            <!--
 NewPP limit report
 Parsed by mw1426
 Cached time: 20230524210433
@@ -155,20 +469,20 @@ Lua time usage: 0.027/10.000 seconds
 Lua memory usage: 1591260/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
-<!--
+                            <!--
 Transclusion expansion time report (%,ms,calls,template)
 100.00%   71.007      1 -total
- 81.99%   58.218      7 Template:Userbox
- 75.10%   53.326      1 Template:User_Wikipedian_for
+ 81.99%   58.218      7 Template:box
+ 75.10%   53.326      1 Template:_Wikipedian_for
  14.84%   10.539      1 Template:Age_in_years,_months_and_days
-  6.44%    4.570      1 User:Dinoz1/Userboxes/plantstalk2
-  4.92%    3.495      2 Template:Userbox-w
-  3.31%    2.349      1 Template:Userbox-2
+  6.44%    4.570      1 :Dinoz1/boxes/plantstalk2
+  4.92%    3.495      2 Template:box-w
+  3.31%    2.349      1 Template:box-2
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:73878669-0!canonical and timestamp 20230524210440 and revision id 1156830977. Rendering was triggered because: edit-page
+                            <!-- Saved in parser cache with key enwiki:pcache:idhash:73878669-0!canonical and timestamp 20230524210440 and revision id 1156830977. Rendering was triggered because: edit-page
  -->
-</script>
+                            </script>
 </body>
-</html>
 
+</html>
